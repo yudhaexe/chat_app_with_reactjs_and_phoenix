@@ -82,5 +82,3 @@ chat-app/
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
-
-Replace `"your-username"` in the GitHub link with your GitHub username before uploading. This `README.md` provides clear instructions and a friendly introduction for other developers to start using your chat app!
